@@ -1,5 +1,5 @@
 # Calculator
-> Caculator is a web application that user can use for mathematical calculation.
+> Calculator is a web application that user can use for mathematical calculation.
 
 <br>
 ### Technology Stack
